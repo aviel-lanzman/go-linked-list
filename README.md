@@ -1,1 +1,1 @@
-# go-node-list
+# go-linked-list
